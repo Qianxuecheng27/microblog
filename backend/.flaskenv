@@ -1,2 +1,2 @@
-FLASK_APP=vendor_management.py
+FLASK_APP=manage.py
 FLASK_ENV=development
